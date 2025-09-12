@@ -1,5 +1,6 @@
-# 💫 About Me:
-## About Me<br><br>Hi, I’m **Atul Paul**, a Software Engineering student at **Daffodil International University**.  <br>I am passionate about **web development, programming, and building practical projects** that solve real-world problems.  <br><br>I have experience working with **HTML, CSS, Bootstrap, JavaScript, and Python**. Currently, I am focusing on **creating responsive websites and learning backend development with Django**.  <br><br>Some of the projects I have built include:<br>- **Personal Portfolio Website** to showcase my skills and projects<br>- **Bootslander Assignment Website** for university coursework<br>- **Bookstore Management System** in C programming for learning structured programming<br><br>I enjoy **learning new technologies, exploring open-source projects, and improving my coding skills** through challenges and small projects.  <br><br>In my free time, I like **reading tech blogs, solving coding problems, and experimenting with UI/UX design**.  <br><br>Feel free to **connect with me on [LinkedIn](https://www.linkedin.com/in/paul-atul/)** or check out my work on **GitHub**.  <br>
+
+## Atul Paul
+Hi, I’m **Atul Paul**, a Computing & Information System student at **Daffodil International University**.  <br>I am passionate about **web development, programming and building practical projects** that solve real-world problems. I have experience working with **HTML, CSS, Bootstrap, JavaScript and Python, Django**. Currently, I am focusing on **creating responsive websites and learning backend development with Django**. I enjoy **learning new technologies, exploring open-source projects and improving my coding skills** through challenges and small projects. <br>Feel free to **connect with me on [LinkedIn](https://www.linkedin.com/in/paul-atul/)**.  <br>
 
 
 ## 🌐 Socials:
@@ -12,16 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Atul-codee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-codee&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Atul-codee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Atul-codee&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Atul-codee&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
