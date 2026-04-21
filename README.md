@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Atul Paul**, a passionate developer from Bangladesh 🇧🇩. I am currently studying **Computing & Information System** at **Daffodil International University**.
+Hi there! I'm **Atul Paul**, a passionate developer from Bangladesh. I am currently studying **Computing & Information System** at **Daffodil International University**.
 
 * 🔭 I’m currently working on **Full Stack Web Development**.
 * 🌱 I’m currently learning **Django REST Framework & Next.js**.
