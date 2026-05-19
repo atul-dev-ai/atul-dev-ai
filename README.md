@@ -56,17 +56,21 @@ Hi there! I'm **Atul Paul**, a passionate developer from Bangladesh. I am curren
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atul-dev-ai&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-  <a href="https://github.com/atul-dev-ai">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=atul-dev-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Atul's Stats" />
-  </a>
-  
-  <a href="https://github.com/atul-dev-ai">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-dev-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
+<img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=atul-dev-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&v=1" alt="Atul's Stats" />
+
+<img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-dev-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" alt="Top Languages" />
 
 </div>
 
@@ -74,6 +78,12 @@ Hi there! I'm **Atul Paul**, a passionate developer from Bangladesh. I am curren
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-dev-ai&theme=tokyonight&hide_border=true&background=0d1117&stroke=7928CA&ring=E4405F&fire=E4405F" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-dev-ai&bg_color=0d1117&color=7928CA&line=7928CA&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
