@@ -68,9 +68,9 @@ Hi there! I'm **Atul Paul**, a passionate developer from Bangladesh. I am curren
 
 <div align="center">
   
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=atul-dev-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&disable_animations=false" alt="Atul's Stats" />
+  <img height="180" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=atul-dev-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&disable_animations=false" alt="Atul's Stats" />
 
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-dev-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&disable_animations=false" alt="Top Languages" />
+  <img height="180" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atul-dev-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&disable_animations=false" alt="Top Languages" />
 
 </div>
 
