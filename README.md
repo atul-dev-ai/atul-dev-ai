@@ -58,9 +58,11 @@ Hi there! I'm **Atul Paul**, a passionate developer from Bangladesh. I am curren
 
 ## 🏆 GitHub Achievements
 
+<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=atul-dev-ai&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
+-->
 
 ---
 
@@ -77,7 +79,7 @@ Hi there! I'm **Atul Paul**, a passionate developer from Bangladesh. I am curren
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=atul-dev-ai&theme=tokyonight&hide_border=true&background=0d1117&stroke=7928CA&ring=E4405F&fire=E4405F&timezone=Asia/Dhaka&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+  <img src="https://streak-stats.vercel.app/?user=atul-dev-ai&theme=tokyonight&hide_border=true&background=0d1117&stroke=7928CA&ring=E4405F&fire=E4405F&timezone=Asia/Dhaka&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
 </div>
 
 <br/>
