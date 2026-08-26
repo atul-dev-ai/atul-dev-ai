@@ -77,13 +77,13 @@ Hi there! I'm **Atul Paul**, a passionate developer from Bangladesh. I am curren
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-dev-ai&theme=tokyonight&hide_border=true&background=0d1117&stroke=7928CA&ring=E4405F&fire=E4405F&timezone=Asia/Dhaka&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=atul-dev-ai&theme=tokyonight&hide_border=true&background=0d1117&stroke=7928CA&ring=E4405F&fire=E4405F&timezone=Asia/Dhaka&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-dev-ai&bg_color=0d1117&color=7928CA&line=7928CA&point=ffffff&area=true&hide_border=true&custom_title=Atul%20Paul's%20Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=atul-dev-ai&bg_color=0d1117&color=7928CA&line=7928CA&point=ffffff&area=true&hide_border=true&custom_title=Atul%20Paul's%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -94,7 +94,15 @@ Hi there! I'm **Atul Paul**, a passionate developer from Bangladesh. I am curren
   <br/>
 </div>
   
-  ### ✍️ Random Dev Quote
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atul-dev-ai/atul-dev-ai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atul-dev-ai/atul-dev-ai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atul-dev-ai/atul-dev-ai/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+### ✍️ Random Dev Quote
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
   
   <br/>
